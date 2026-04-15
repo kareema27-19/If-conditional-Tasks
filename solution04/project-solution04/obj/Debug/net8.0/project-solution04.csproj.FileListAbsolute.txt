@@ -1,0 +1,14 @@
+C:\Users\karee\Downloads\suwaiq-solution\solution04\project-solution04\bin\Debug\net8.0\project-solution04.exe
+C:\Users\karee\Downloads\suwaiq-solution\solution04\project-solution04\bin\Debug\net8.0\project-solution04.deps.json
+C:\Users\karee\Downloads\suwaiq-solution\solution04\project-solution04\bin\Debug\net8.0\project-solution04.runtimeconfig.json
+C:\Users\karee\Downloads\suwaiq-solution\solution04\project-solution04\bin\Debug\net8.0\project-solution04.dll
+C:\Users\karee\Downloads\suwaiq-solution\solution04\project-solution04\bin\Debug\net8.0\project-solution04.pdb
+C:\Users\karee\Downloads\suwaiq-solution\solution04\project-solution04\obj\Debug\net8.0\project-solution04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karee\Downloads\suwaiq-solution\solution04\project-solution04\obj\Debug\net8.0\project-solution04.AssemblyInfoInputs.cache
+C:\Users\karee\Downloads\suwaiq-solution\solution04\project-solution04\obj\Debug\net8.0\project-solution04.AssemblyInfo.cs
+C:\Users\karee\Downloads\suwaiq-solution\solution04\project-solution04\obj\Debug\net8.0\project-solution04.csproj.CoreCompileInputs.cache
+C:\Users\karee\Downloads\suwaiq-solution\solution04\project-solution04\obj\Debug\net8.0\project-solution04.dll
+C:\Users\karee\Downloads\suwaiq-solution\solution04\project-solution04\obj\Debug\net8.0\refint\project-solution04.dll
+C:\Users\karee\Downloads\suwaiq-solution\solution04\project-solution04\obj\Debug\net8.0\project-solution04.pdb
+C:\Users\karee\Downloads\suwaiq-solution\solution04\project-solution04\obj\Debug\net8.0\project-solution04.genruntimeconfig.cache
+C:\Users\karee\Downloads\suwaiq-solution\solution04\project-solution04\obj\Debug\net8.0\ref\project-solution04.dll
